@@ -9,8 +9,8 @@ import pkg from './package.json';
 
 const templateParameters = {
   language: 'en',
-  chatCode: '84cHSv9',
-  chatPublishier: 'wizardmodestaging',
+  chatCode: 'pmjCu1j',
+  chatPublishier: 'codermarcos',
 	chatUrl: `https://go.arena.im/embed/chat/`,
   title: 'Arena Live Chat Demo | codermarcos',
   description: 'Test created by Marcos (codermarcos)'
